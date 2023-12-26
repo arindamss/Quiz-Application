@@ -35,3 +35,9 @@ Clone the repository:
 1. git clone https://github.com/your-username/quizinator.git
 2. javac quiz/*.java
 3. java quiz.Login
+
+## Usage
+1. Launch the application by running the 'Login' class.
+1. Enter your name and proceed to the quiz.
+1. Answer the quiz questions, use lifelines, and submit your answers.
+1. View your final score.
