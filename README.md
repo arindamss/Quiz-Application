@@ -27,7 +27,7 @@ The Quizinator is a quiz application built using Java, providing users with an i
 
 Include screenshots or GIFs here to showcase the application's interface.
 
-![alt text](icons/R1.png)
+![Login](./icons/R1.png)
 
 ## Installation
 
