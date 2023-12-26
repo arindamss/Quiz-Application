@@ -33,5 +33,5 @@ Clone the repository:
 
 ```bash
 1. git clone https://github.com/your-username/quizinator.git
-1. javac quiz/*.java
-1. java quiz.Login
+2. javac quiz/*.java
+3. java quiz.Login
