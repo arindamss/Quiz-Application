@@ -32,4 +32,6 @@ Include screenshots or GIFs here to showcase the application's interface.
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/quizinator.git
+1. git clone https://github.com/your-username/quizinator.git
+1. javac quiz/*.java
+1. java quiz.Login
